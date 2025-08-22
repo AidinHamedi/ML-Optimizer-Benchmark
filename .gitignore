@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# keep the results folder
+!results/
+
+# keep .gitignore and .gitattributes
+!.gitignore
+!.gitattributes
