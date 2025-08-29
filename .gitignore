@@ -3,6 +3,7 @@
 
 # keep the results folder
 !results/
+!results/**
 
 # keep .gitignore and .gitattributes
 !.gitignore
